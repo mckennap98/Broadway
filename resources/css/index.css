@@ -45,23 +45,8 @@ p {
 font-size: 14px;
 text-align: center;
 }
-.maintext {
-text-align: center;
-}
-
-.footer {
-text-align: right;
-}
 
 img{
 margin:0px auto;
 display:block;
 }
-video {
-  width: 50%;
-  height: 440px;
-  margin: 0 auto;
-  display: block;
-}
-
-
