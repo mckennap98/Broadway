@@ -8,15 +8,14 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   text-align: center; 
-  
  }
 
 .mainpart {
  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
  text-align: center; 
 margin: 0 auto;
-
 }
+
 a{
 background: transparent;
 color: White;
@@ -55,4 +54,8 @@ text-align: center;
 img{
 margin:0px auto;
 display:block;
+}
+
+footer a{
+color: Black;
 }
